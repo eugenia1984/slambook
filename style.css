@@ -1,0 +1,41 @@
+body{
+    background-color: #d5f57d;
+    font-family: 'Courier New', Courier, monospace;
+}
+form{
+    width: 600px;
+    background-color: #f5e1a0;
+    border-radius: 25px;
+    padding: 15px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: -10px 10px 5px rgba(255, 0, 0, 0.145);
+}
+h1{
+    text-align: center;
+    color: rgb(119, 6, 6);
+}
+input{
+    border-radius: 10px;
+}
+#preguntas fieldset{
+    border: none;
+    padding: 0:
+    margin: 0;
+}
+
+#preguntas legend{
+    padding:0;
+}
+#preguntas ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+input[type="submit"]{
+    margin-left: 300px;
+}
+input[type="reset"]{
+    margin-left: 280px;
+}
