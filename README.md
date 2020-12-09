@@ -1,8 +1,8 @@
 # slambook
 
 ## What I did?
-_I created a slamboox using a form. <br/> 
-_I tried to used as many input type as possible, such as: text, date, radio, tel, file, color, time, number, datetime-local, month, week, range, checkbox, hidden, submit, reset._
+I created a slamboox using a form. <br/> 
+I tried to used as many input type as possible, such as: text, date, radio, tel, file, color, time, number, datetime-local, month, week, range, checkbox, hidden, submit, reset.
 
 ## Content 🚀
 _This Project only has one master branch, it was a small project so it did not need more branches._
