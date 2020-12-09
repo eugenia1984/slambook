@@ -1,7 +1,7 @@
 # slambook
 
 ## What I did?
-_I created a slamboox using a form._ 
+_I created a slamboox using a form. <br/> 
 _I tried to used as many input type as possible, such as: text, date, radio, tel, file, color, time, number, datetime-local, month, week, range, checkbox, hidden, submit, reset._
 
 ## Content 🚀
