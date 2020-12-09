@@ -4,12 +4,15 @@
 *I created a slamboox using a form. 
 *I tried to used as many input type as possible, such as: text, date, radio, tel, file, color, time, number, datetime-local, month, week, range, checkbox, hidden, submit, reset.
 
-## Builded with 🛠️
+## Content 🚀
+_This Project only has one master branch, it was a small project so it did not need more branches._
 
+## Builded with 🛠️
 _**HTML 5** and **CSS3**_
 
-## You can see it here: 
-**(https://codepen.io/eugenia1984/pen/mdrVwWX)**
+## Demo 📦
+_If you want to see how this project was, you can do it from :_
+:arrow_right: **(https://codepen.io/eugenia1984/pen/mdrVwWX)**
 
 ## Please: 🎁
 
@@ -19,5 +22,5 @@ _**HTML 5** and **CSS3**_
 
 
 ---
-⌨️ with ❤️ by [María Eugeia Costa](https://github.com/eugenia1984) 😊
+⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊
 
