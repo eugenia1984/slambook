@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title> Slambook</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form action="#" method="post">
+        <h1>Slam Book</h1>
+        <section id="preguntas">
+            <p>
+                <label for="name">Nombres y Apellidos:</label>
+                <input type="text" name="nombres" id="name">
+            </p>
+            <p>
+                <label for="birth"> Fecha de nacimiento:  </label>
+                <input type="date" name="nacimiento" id="birth">
+            </p>
+            <fieldset>
+                <legend> Tenés mascotas:</legend>
+                    <ul>
+                        <li>  
+                            <label>
+                                <input type="radio" name="si-no" value="si"> Si
+                            </label>
+                        </li>
+                        <li>
+                            <label>
+                                <input type="radio" name="si-no" value="no"> No
+                            </label>
+                        </li> 
+
+                        </li>
+                    </ul>
+            </fieldset>
+            <p>
+                <label for="phone"> Número de teléfono</label>
+                <input type="tel" name="telefono" id="phone">
+            </p>
+            <p>
+                <label for="foto">Sube tu foto de perfil</label>
+                <input type="file" name="foto" id="foto" multiple accept="image/*">
+            </p>
+            <p>
+                <label for="color"> Color favorito:</label>
+                <input type="color" name="color" id="color">
+            </p>
+            <p>
+                <label for="hour"> Hora que te despiertas:</label>
+                <input type="time" name="hora" id="hour">
+            </p>
+            <p>
+                <label for="number">Número favorito del 1 al 100:</label>
+                <input type="number" name="numro" id="numero" min="1" max="100"> 
+            </p>
+            <p>
+                <label for="mydatetimelocal">Fecha y hora más importante:</label>
+                <input type="datetime-local" name="fechayhora" id="mydatetimelocal">
+            </p>
+            <p>
+                <label for="month"> Elige un mes y un año:</label>
+                <input type="month" name="mes" id="month">
+            </p>
+            <p>
+                <label for="wee">Elige una fecha:</label>
+                <input type="week" name="semana" id="week">
+            </p>
+            <p>
+                <label for="volume"> Volumen favorito:</label>
+                <input type="range" name="volumen" id="volume">
+            </p>
+            <fieldset>
+                <ul>
+                    <li>
+                        <label></label>
+                        <input type="checkbox" name="confirmacion">
+                        Juro que todas mis respuestas son verdaderas
+                    </li>
+                    <li>
+                        <label></label>
+                        <input type="checkbox" name="confirmacion">
+                        Acepto que cualquier otro usuario vea mis respuestas
+                    </li>
+                </ul>
+            </fieldset>
+            <input type="hidden" name="idioma" value="spanish">
+        </section id="botones">
+            <p>
+                <input type="submit">
+            </p>
+            <p>
+                <input type="reset">
+            </p>
+        <section>
+
+        </section>
+    </form>
+    
+</body>
+</html>
