@@ -1,18 +1,31 @@
-# slambook
+# Slambook
 
 ## What I did?
+
 I created a slamboox using a form. <br/> 
+
 I tried to used as many input type as possible, such as: text, date, radio, tel, file, color, time, number, datetime-local, month, week, range, checkbox, hidden, submit, reset.
 
+---
+
 ## Content 🚀
+
 _This Project only has one master branch, it was a small project so it did not need more branches._
 
+---
+
 ## Builded with 🛠️
+
 _**HTML 5** and **CSS3**_
 
+---
+
 ## Demo 📦
+
 _If you want to see how this project was, you can do it from :_
 :arrow_right: **https://cursoutneuge20.000webhostapp.com/slambook/index.html**
+
+---
 
 ## Please: 🎁
 
@@ -22,5 +35,6 @@ _If you want to see how this project was, you can do it from :_
 
 
 ---
-⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊
+
+⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊, follow and contact me at: [LinkedIn - maria-eugenia-costa](https://www.linkedin.com/in/maria-eugenia-costa/)
 
